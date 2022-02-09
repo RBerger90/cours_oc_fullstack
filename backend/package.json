@@ -7,5 +7,10 @@
   },
   "author": "Romain Berger",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.2",
+    "goose": "0.0.3",
+    "mongoose": "^6.2.1"
+  }
 }
